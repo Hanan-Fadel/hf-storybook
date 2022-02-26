@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-MONGO_URI= 'mongodb+srv://hfadel:pit.far.sun-111@hf-cluster.di58a.mongodb.net/storyBooks?retryWrites=true&w=majority';
+MONGO_URI= 'MONGOURI'
 
 const connectDB = async() => {
     try {
